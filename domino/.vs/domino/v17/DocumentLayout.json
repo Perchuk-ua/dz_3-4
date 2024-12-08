@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\github\\domino\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F283A4FF-3FE4-9AE1-A596-36A80FB08EA5}|Assembly-CSharp.csproj|d:\\github\\domino\\assets\\scripts\\capsulescript\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F283A4FF-3FE4-9AE1-A596-36A80FB08EA5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\capsulescript\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F283A4FF-3FE4-9AE1-A596-36A80FB08EA5}|Assembly-CSharp.csproj|D:\\github\\domino\\assets\\scripts\\capsulescript\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F283A4FF-3FE4-9AE1-A596-36A80FB08EA5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\capsulescript\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F283A4FF-3FE4-9AE1-A596-36A80FB08EA5}|Assembly-CSharp.csproj|D:\\github\\domino\\assets\\scripts\\cubescript\\cubemainscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F283A4FF-3FE4-9AE1-A596-36A80FB08EA5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cubescript\\cubemainscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "D:\\github\\domino\\Assets\\Scripts\\CapsuleScript\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CapsuleScript\\PlayerController.cs",
+              "ToolTip": "D:\\github\\domino\\Assets\\Scripts\\CapsuleScript\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CapsuleScript\\PlayerController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T07:34:07.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CameraController.cs",
+              "DocumentMoniker": "D:\\github\\domino\\Assets\\Scripts\\CapsuleScript\\CameraController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CapsuleScript\\CameraController.cs",
+              "ToolTip": "D:\\github\\domino\\Assets\\Scripts\\CapsuleScript\\CameraController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CapsuleScript\\CameraController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T07:31:39.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CubeMainScript.cs",
+              "DocumentMoniker": "D:\\github\\domino\\Assets\\Scripts\\CubeScript\\CubeMainScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CubeScript\\CubeMainScript.cs",
+              "ToolTip": "D:\\github\\domino\\Assets\\Scripts\\CubeScript\\CubeMainScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CubeScript\\CubeMainScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T07:15:20.199Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
